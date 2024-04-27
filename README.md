@@ -1,4 +1,4 @@
-# Bioswale Suitability for Flood Mitigation in Rio Juan Díaz Basin
+# Bioswale Suitability for Flood Mitigation in Rio Juan Díaz Basin, Panama
 
 This project aims to evaluate the suitability of the Rio Juan Díaz basin in Panama for implementing bioswales as a flood mitigation strategy. Bioswales, which are landscape elements designed to concentrate and convey stormwater runoff while promoting infiltration and reducing flooding, can play a crucial role in reducing flood risk. By using advanced geospatial analysis in ArcGIS Pro, this project provides a comprehensive analysis of the area's flood and landslide susceptibility to create a model for bioswale suitability.
 
